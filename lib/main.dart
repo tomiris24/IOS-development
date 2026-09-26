@@ -153,7 +153,7 @@ class _ProfileCardScreenState extends State<ProfileCardScreen> {
       _isFollowing = false;
       _isLiked = false;
       _followerCount = 1320;
-      _likesCount = 0;
+      _likesCount = 120;
     });
   }
 }
